@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{D1F67547-B241-4AAF-96AE-80640DFE2140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc", "Mvc\Mvc.csproj", "{D97F64AA-0128-414D-82B9-3E0D88DD3768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F67547-B241-4AAF-96AE-80640DFE2140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F67547-B241-4AAF-96AE-80640DFE2140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F67547-B241-4AAF-96AE-80640DFE2140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F67547-B241-4AAF-96AE-80640DFE2140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97F64AA-0128-414D-82B9-3E0D88DD3768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97F64AA-0128-414D-82B9-3E0D88DD3768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97F64AA-0128-414D-82B9-3E0D88DD3768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97F64AA-0128-414D-82B9-3E0D88DD3768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81A21DCB-ACC6-49E1-A931-FA18A9E21B77}
+	EndGlobalSection
+EndGlobal
